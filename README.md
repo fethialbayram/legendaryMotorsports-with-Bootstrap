@@ -8,10 +8,10 @@
 - Hakkımızda
 - Araçlar
 
-![Anasayfa](/ss/lmb-1.jpg)
+![Anasayfa](/ss/lmb-1.JPG)
 
-![Hakkımızda](/ss/lmb-2.jpg)
+![Hakkımızda](/ss/lmb-2.JPG)
 
-![Araçlar-1](/ss/lmb-3.1.jpg)
+![Araçlar-1](/ss/lmb-3.1.JPG)
 
-![Araçlar-2](/ss/lmb-3.2.jpg)
+![Araçlar-2](/ss/lmb-3.2.JPG)
